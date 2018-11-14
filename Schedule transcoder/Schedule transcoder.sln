@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schedule transcoder", "Schedule transcoder\Schedule transcoder.csproj", "{AB3EDFC2-8CDD-4AAA-9DE3-CDA6EE752455}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{89928D55-E836-49D7-B949-E850727FF2D7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Schedule Transcoder Setup", "Schedule Transcoder Setup\Schedule Transcoder Setup.vdproj", "{9EAD73B9-D2D5-4232-B899-7EDCCB526FE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB3EDFC2-8CDD-4AAA-9DE3-CDA6EE752455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3EDFC2-8CDD-4AAA-9DE3-CDA6EE752455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3EDFC2-8CDD-4AAA-9DE3-CDA6EE752455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3EDFC2-8CDD-4AAA-9DE3-CDA6EE752455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89928D55-E836-49D7-B949-E850727FF2D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89928D55-E836-49D7-B949-E850727FF2D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89928D55-E836-49D7-B949-E850727FF2D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89928D55-E836-49D7-B949-E850727FF2D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EAD73B9-D2D5-4232-B899-7EDCCB526FE8}.Debug|Any CPU.ActiveCfg = Debug
+		{9EAD73B9-D2D5-4232-B899-7EDCCB526FE8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1C1608C-CAD7-4C18-8EB7-E23BBF2B9519}
+	EndGlobalSection
+EndGlobal

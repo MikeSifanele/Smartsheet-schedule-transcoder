@@ -1,0 +1,11 @@
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\BLL\bin\Debug\BLL.dll
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\BLL\bin\Debug\BLL.pdb
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\BLL\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\BLL\bin\Debug\ExcelDataReader.dll
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\BLL\bin\Debug\ExcelDataReader.xml
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\BLL\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\BLL\obj\Debug\BLL.dll
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\BLL\obj\Debug\BLL.pdb

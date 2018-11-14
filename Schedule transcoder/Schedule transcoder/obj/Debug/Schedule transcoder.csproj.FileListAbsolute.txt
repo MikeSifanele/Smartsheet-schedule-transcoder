@@ -1,0 +1,93 @@
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcoder\Schedule transcoder\bin\Debug\Schedule transcoder.exe.config
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcoder\Schedule transcoder\bin\Debug\Schedule transcoder.exe
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcoder\Schedule transcoder\bin\Debug\Schedule transcoder.pdb
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcoder\Schedule transcoder\bin\Debug\BLL.dll
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcoder\Schedule transcoder\bin\Debug\ExcelDataReader.dll
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcoder\Schedule transcoder\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcoder\Schedule transcoder\bin\Debug\BLL.pdb
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcoder\Schedule transcoder\bin\Debug\ExcelDataReader.xml
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcoder\Schedule transcoder\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule transcoder.csprojAssemblyReference.cache
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule transcoder.csproj.ResolveComReference.cache
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule_transcoder.Form1.resources
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule_transcoder.Properties.Resources.resources
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule transcoder.csproj.GenerateResource.cache
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule transcoder.csproj.CoreCompileInputs.cache
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule transcoder.csproj.CopyComplete
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule transcoder.exe
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule transcoder.pdb
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\Schedule transcoder\bin\Debug\Schedule transcoder.exe.config
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\Schedule transcoder\bin\Debug\Schedule transcoder.exe
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\Schedule transcoder\bin\Debug\Schedule transcoder.pdb
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\Schedule transcoder\bin\Debug\BLL.dll
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\Schedule transcoder\bin\Debug\ExcelDataReader.dll
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\Schedule transcoder\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\Schedule transcoder\bin\Debug\BLL.pdb
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\Schedule transcoder\bin\Debug\ExcelDataReader.xml
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\Schedule transcoder\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule transcoder.csprojAssemblyReference.cache
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule transcoder.csproj.ResolveComReference.cache
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule_transcoder.Form1.resources
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule_transcoder.Properties.Resources.resources
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule transcoder.csproj.GenerateResource.cache
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule transcoder.csproj.CoreCompileInputs.cache
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule transcoder.csproj.CopyComplete
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule transcoder.exe
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule transcoder.pdb
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcodr\Schedule transcoder\bin\Debug\Schedule transcoder.exe.config
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcodr\Schedule transcoder\bin\Debug\Schedule transcoder.exe
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcodr\Schedule transcoder\bin\Debug\Schedule transcoder.pdb
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcodr\Schedule transcoder\bin\Debug\BLL.dll
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcodr\Schedule transcoder\bin\Debug\ExcelDataReader.dll
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcodr\Schedule transcoder\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcodr\Schedule transcoder\bin\Debug\BLL.pdb
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcodr\Schedule transcoder\bin\Debug\ExcelDataReader.xml
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcodr\Schedule transcoder\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcodr\Schedule transcoder\obj\Debug\Schedule transcoder.csprojAssemblyReference.cache
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcodr\Schedule transcoder\obj\Debug\Schedule transcoder.csproj.ResolveComReference.cache
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcodr\Schedule transcoder\obj\Debug\Schedule_transcoder.Form1.resources
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcodr\Schedule transcoder\obj\Debug\Schedule_transcoder.Properties.Resources.resources
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcodr\Schedule transcoder\obj\Debug\Schedule transcoder.csproj.GenerateResource.cache
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcodr\Schedule transcoder\obj\Debug\Schedule transcoder.csproj.CoreCompileInputs.cache
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcodr\Schedule transcoder\obj\Debug\Schedule transcoder.csproj.CopyComplete
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcodr\Schedule transcoder\obj\Debug\Schedule transcoder.exe
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule transcodr\Schedule transcoder\obj\Debug\Schedule transcoder.pdb
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcodr\Schedule transcoder\bin\Debug\Schedule transcoder.exe.config
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcodr\Schedule transcoder\bin\Debug\Schedule transcoder.exe
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcodr\Schedule transcoder\bin\Debug\Schedule transcoder.pdb
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcodr\Schedule transcoder\bin\Debug\BLL.dll
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcodr\Schedule transcoder\bin\Debug\ExcelDataReader.dll
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcodr\Schedule transcoder\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcodr\Schedule transcoder\bin\Debug\BLL.pdb
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcodr\Schedule transcoder\bin\Debug\ExcelDataReader.xml
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcodr\Schedule transcoder\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcodr\Schedule transcoder\obj\Debug\Schedule transcoder.csprojAssemblyReference.cache
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcodr\Schedule transcoder\obj\Debug\Schedule transcoder.csproj.ResolveComReference.cache
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcodr\Schedule transcoder\obj\Debug\Schedule_transcoder.Form1.resources
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcodr\Schedule transcoder\obj\Debug\Schedule_transcoder.Properties.Resources.resources
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcodr\Schedule transcoder\obj\Debug\Schedule transcoder.csproj.GenerateResource.cache
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcodr\Schedule transcoder\obj\Debug\Schedule transcoder.csproj.CoreCompileInputs.cache
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcodr\Schedule transcoder\obj\Debug\Schedule transcoder.csproj.CopyComplete
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcodr\Schedule transcoder\obj\Debug\Schedule transcoder.exe
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcodr\Schedule transcoder\obj\Debug\Schedule transcoder.pdb
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcodr\Schedule transcoder\obj\Debug\Schedule_transcoder.Form2.resources
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcoder\Schedule transcoder\bin\Debug\Schedule transcoder.exe.config
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcoder\Schedule transcoder\bin\Debug\Schedule transcoder.exe
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcoder\Schedule transcoder\bin\Debug\Schedule transcoder.pdb
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcoder\Schedule transcoder\bin\Debug\BLL.dll
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcoder\Schedule transcoder\bin\Debug\ExcelDataReader.dll
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcoder\Schedule transcoder\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcoder\Schedule transcoder\bin\Debug\BLL.pdb
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcoder\Schedule transcoder\bin\Debug\ExcelDataReader.xml
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcoder\Schedule transcoder\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule transcoder.csprojAssemblyReference.cache
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule transcoder.csproj.ResolveComReference.cache
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule_transcoder.Form1.resources
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule_transcoder.Form2.resources
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule_transcoder.Properties.Resources.resources
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule transcoder.csproj.GenerateResource.cache
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule transcoder.csproj.CoreCompileInputs.cache
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule transcoder.csproj.CopyComplete
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule transcoder.exe
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Schedule Transcoder App files\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule transcoder.pdb
+C:\Users\Mike.Sifanele\Desktop\Schedule transcoder\Schedule transcoder\obj\Debug\Schedule_transcoder.Form2.resources
